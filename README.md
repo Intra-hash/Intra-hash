@@ -21,9 +21,9 @@ Using technology and innovation as the path of change
 <img src="https://img.shields.io/badge/Pandas-282C34?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas logo" title="Pandas" height="25" />  <img src="https://img.shields.io/badge/R-282C34?style=for-the-badge&logo=R&logoColor=276DC3" alt="R logo" title="R" height="25" />
 
 <a href="https://github.com/intra-hash">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=conradomedeirosdev&count_private=true&show_icons=true&theme=dracula" alt="conradomedeirosdev" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=intra-hash&count_private=true&show_icons=true&theme=dracula" alt="intra-hash" />
 <a href="https://github.com/intra-hash">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradomedeirosdev&count_private=true&layout=compact&theme=dracula" alt="intra-hash" />
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intra-hash&count_private=true&layout=compact&theme=dracula" alt="intra-hash" />
 </a>
 <br />
 <br />
